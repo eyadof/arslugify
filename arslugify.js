@@ -10,6 +10,7 @@ function slugify(value){
 	cleanedString = XRegExp.replace(value,cleanReg,'');
 	cleanedString = cleanedString.trim();
 	cleanedString = cleanedString.toLowerCase();
+	cleanedString = cleanedString.replace(/\s{2,}/g,' ')
 	slugifiedString = dasherize(cleanedString);
 
 	return slugifiedString; 
