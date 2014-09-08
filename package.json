@@ -1,5 +1,5 @@
 {
-  "name": "arSlugify",
+  "name": "arslugify",
   "version": "1.0.0",
   "description": "generate clean and slugified urls for Arabic letters",
   "main": "arslugify.js",
