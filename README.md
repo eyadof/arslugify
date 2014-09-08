@@ -3,7 +3,7 @@ arslugify is a package for creating clean and slugified urls that contains Arabi
 
 ##install
 ```bash
-npm install arsslugify
+npm install arslugify
 ```
 
 ##usage 
