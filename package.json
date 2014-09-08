@@ -1,0 +1,31 @@
+{
+  "name": "arSlugify",
+  "version": "1.0.0",
+  "description": "generate clean and slugified urls for Arabic letters",
+  "main": "arslugify.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "arabic",
+    "slugify",
+    "url"
+  ],
+  "author": "Eyad Arnabeh",
+  "license": "GPL",
+  "dependencies": {
+    "xregexp": "^2.0.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eyadof/arslugify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eyadof/arslugify/issues"
+  },
+  "homepage": "https://github.com/eyadof/arslugify"
+}
