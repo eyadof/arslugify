@@ -1,4 +1,4 @@
-var ars = require('../arSlugify');
+var ars = require('../arslugify');
 
 describe('arSlugify',function(){
 	describe('only Arabic letters text',function(){
